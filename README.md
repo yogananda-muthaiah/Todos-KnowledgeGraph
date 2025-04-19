@@ -6,7 +6,7 @@
 ### Initialize the Go module.
 
 ```
-go mod init Todos-knowledge-graph
+go mod init go-knowledge-graph
 go mod tidy
 ```
 
